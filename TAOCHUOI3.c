@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main() {
-	char W[1000], S[1000];
+	char W[50], S[150];
 	int i, j, k = 0;
 	printf("Nhap W = "); gets(W);
 	printf("Cac xau con la:\n");
